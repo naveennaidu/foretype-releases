@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Foretype</title>
+    <item>
+      <title>0.1.1</title>
+      <pubDate>Thu, 12 Nov 2026 11:29:20 +0530</pubDate>
+      <sparkle:version>202611121128</sparkle:version>
+      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<p style="font: 13px -apple-system">First public build: inline suggestions in any app, learns from your writing, updates itself.</p>]]></description>
+      <enclosure url="https://github.com/naveennaidu/foretype-releases/releases/download/v0.1.1/Foretype-0.1.1.dmg" type="application/octet-stream" sparkle:edSignature="fAOfOnVA+CQeA/rCY6xbnXsRZCZfRVFMKiI/z3XSrysvva9EImfkjRK36K33r0URtXQ3v1RkkaW2sd0HE5WPBQ==" length="10370069" />
+    </item>
+  </channel>
+</rss>
