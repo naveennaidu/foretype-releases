@@ -3,13 +3,13 @@
   <channel>
     <title>Foretype</title>
     <item>
-      <title>0.1.1</title>
-      <pubDate>Thu, 12 Nov 2026 11:29:20 +0530</pubDate>
-      <sparkle:version>202611121128</sparkle:version>
-      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+      <title>0.2.0</title>
+      <pubDate>Thu, 12 Nov 2026 14:19:11 +0530</pubDate>
+      <sparkle:version>202611121418</sparkle:version>
+      <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p style="font: 13px -apple-system">First public build: inline suggestions in any app, learns from your writing, updates itself.</p>]]></description>
-      <enclosure url="https://github.com/naveennaidu/foretype-releases/releases/download/v0.1.1/Foretype-0.1.1.dmg" type="application/octet-stream" sparkle:edSignature="fAOfOnVA+CQeA/rCY6xbnXsRZCZfRVFMKiI/z3XSrysvva9EImfkjRK36K33r0URtXQ3v1RkkaW2sd0HE5WPBQ==" length="10370069" />
+      <description><![CDATA[<p style="font: 13px -apple-system">Suggestions now appear only when the model is confident, use the text on screen above where you type (the email or chat you are answering), and stay out of file-name and other one-line fields. New settings: how often to suggest, and whether to read nearby screen text.</p>]]></description>
+      <enclosure url="https://github.com/naveennaidu/foretype-releases/releases/download/v0.2.0/Foretype-0.2.0.dmg" type="application/octet-stream" sparkle:edSignature="r4+qry/+dhj529Hg1eXGTQXNXdwBPVEpMkDfu6vEOnOXzFWvwBwbk8vKyFdTxsChc0LgZjpuK/twPmCaVh+OBQ==" length="10393428" />
     </item>
   </channel>
 </rss>
